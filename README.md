@@ -4,8 +4,9 @@
 
 
 I am Prateek; here are a few things about me:
- - Computer Science B.S. and Mathematics B.S. first-year student at UNC Chapel Hill.
- - Former President and Programming Lead of [FRC 5190](https://github.com/FRC5190).
+ - Computer Science B.S. and Mathematics B.S. first-year student at UNC Chapel Hill
+ - Developer for [PhotonVision](https://github.com/PhotonVision)
+ - Former President and Programming Lead of [FRC 5190](https://github.com/FRC5190)
 
 <!--
 **prateekma/prateekma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
