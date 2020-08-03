@@ -4,7 +4,7 @@
 
 
 I am Prateek; here are a few things about me:
- - Computer Science B.S. and Mathematics B.S. first-year student at UNC Chapel Hill
+ - Computer Science B.S. and Mathematics (applied) B.S. first-year student at UNC Chapel Hill
  - Developer for [PhotonVision](https://github.com/PhotonVision)
  - Former President and Programming Lead of [FRC 5190](https://github.com/FRC5190)
 
