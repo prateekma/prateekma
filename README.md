@@ -5,7 +5,7 @@
 
 I am Prateek; here are a few things about me:
  - Computer Science B.S. and Mathematics (applied) B.S. first-year student at UNC Chapel Hill
- - Contributor to [WPILib](https://github.com/wpilibsuite/allwpilib), a robotics library used by over 3,000 teams worldwide.
+ - Contributor to [WPILib](https://github.com/wpilibsuite/allwpilib), a robotics library used by over 3,000 teams worldwide
  - Developer for [PhotonVision](https://github.com/PhotonVision)
  - Former President and Programming Lead of [FRC 5190](https://github.com/FRC5190)
 
