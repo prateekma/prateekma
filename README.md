@@ -1,5 +1,3 @@
-![Hello there](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
-
 [![Prateek Machiraju on LinkedIn](https://img.shields.io/badge/-Prateek%20Machiraju-4B9CD3?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/prateek-machiraju/)](https://www.linkedin.com/in/prateek-machiraju/) [![Prateek Machiraju on Twitter](https://img.shields.io/badge/-theprateekma-4B9CD3?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/theprateekma)](https://twitter.com/theprateekma)
 
 
