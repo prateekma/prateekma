@@ -5,7 +5,7 @@ I am Prateek; here are a few things about me:
  - Computer Science B.S. and Mathematics (applied) B.S. student at UNC Chapel Hill
  - Contributor to [WPILib](https://github.com/wpilibsuite/allwpilib), a robotics library used by over 3,000 teams worldwide
  - Former President and Programming Lead of [FRC 5190](https://github.com/FRC5190)
- - Former Flight Software Intern at SpaceX (Summer 2022)
+ - Flight Software Engineer at SpaceX
 
 <!--
 **prateekma/prateekma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
